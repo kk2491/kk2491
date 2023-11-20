@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  
 
 <!--
 **kk2491/kk2491** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am multi-talented software engineer working on some really cool stuffs.  
+I am currently working in **Interplai** as **Autonomous Vehicles and Software Engineer**, my areas of expirtise are designing vehicle route optimization systems and also autonomous vehicles.  
+My areas of expertise are Javascript, Mongodb, Python, NodeJs and C++.   
+
