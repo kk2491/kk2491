@@ -28,7 +28,7 @@ I thrive on turning challenges into opportunities. If you're passionate about th
 
 ## 📫 Get in Touch:
 LinkedIn: [Kishor Kumar](https://www.linkedin.com/in/kk2491/)   
-Twitter: [@kik2491](https://twitter.com/kik2491)   
+X: [@kik2491](https://twitter.com/kik2491)   
 Email: kishorkumar2491@gmail.com   
 Let's code the future together! 🚀✨
 
